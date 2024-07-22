@@ -1,7 +1,7 @@
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class Accenture_question2 {
+public class Accenture_productSmallestPair{
     public static void main(String[] args) {
         int[] Test_Array1={5,2,4,3,9,7,1};
         int[] Test_Array2={9,8,3,-7,3,9};

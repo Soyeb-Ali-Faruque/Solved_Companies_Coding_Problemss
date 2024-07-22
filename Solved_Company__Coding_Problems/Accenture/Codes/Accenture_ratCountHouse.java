@@ -24,7 +24,7 @@
 //        = 7 * 2 = 14.
 //
 //        The amount of food in 1st houses = 2+8+3+5 = 18. Since, amount of food in 1st 4 houses is sufficient for all the rats. Thus, output is 4.
-public class Rat_Count_House {
+public class Accenture_ratCountHouse{
 
     public static void main(String[] args) {
 

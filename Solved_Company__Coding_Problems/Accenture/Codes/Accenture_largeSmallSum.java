@@ -1,4 +1,4 @@
-public class Accenture_question1 {
+public class Accenture_largeSmallSum{
     public static void main(String[] args) {
         int[] Test_Array1={3,2,1,7,5,4};
         int[] Test_Array2={8,0,2,3,5,6};

@@ -30,7 +30,7 @@
 //        Output:
 //        0
 package Company_Asked_problems;
-public class Binary_Number_problem {
+public class Accenture_OperationsBinaryString{
     public static void main(String[] args) {
         String Test1="";
         String Test2="1C0C1C1A0B1";

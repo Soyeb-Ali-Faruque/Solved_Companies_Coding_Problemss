@@ -3,7 +3,7 @@ package Company_Asked_problems;
 
 import java.util.Arrays;
 
-public class countMinimulSquareSum {
+public class Accenture_countMinimulSquareSum {
     public static void main(String[] args) {
         int n=6;
         int number = (int)Math.sqrt(n);

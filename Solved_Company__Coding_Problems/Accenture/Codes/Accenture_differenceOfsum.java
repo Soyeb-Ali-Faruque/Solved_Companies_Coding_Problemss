@@ -1,4 +1,4 @@
-public class Accenture_question {
+public class Accenture_differenceOfsum{
     public static void main(String[] args) {
         System.out.println(differenceOfSum(3,10));
     }

@@ -1,6 +1,6 @@
 package Company_Asked_problems;
 
-public class String_operation {
+public class Accenture_stringOperations{
     public static void main(String[] args) {
         String Test1="qlewldoaa life ace by fantasy";
         String Test2="soyeb";
