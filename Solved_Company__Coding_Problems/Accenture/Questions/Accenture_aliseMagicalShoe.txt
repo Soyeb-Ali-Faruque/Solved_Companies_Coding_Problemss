@@ -1,0 +1,14 @@
+Alise Magical Shoe
+
+Given an array and its elements representing the stairs or each houses.
+A person is able to climb 3 stairs at a time.
+suppose if a house contains stairs so 12 stairs ....so it takes 4 step to cover all.
+suppose if house contains 8 stairls ...so it is not possible to get to the top becaus3+3=6 2 left
+
+input:{12,21,3,4}
+output: 3
+explanation:Reachable are(12,21,3) so count as 3 output
+input:{1,2,,1,1,1,5}
+output: 0
+explanation: No one is possible to climb
+
