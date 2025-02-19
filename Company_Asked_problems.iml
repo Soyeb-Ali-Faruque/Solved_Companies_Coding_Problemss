@@ -4,6 +4,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Solved_Company__Coding_Problems/Accenture/Codes" isTestSource="false" packagePrefix="Company_Asked_problems" />
+      <sourceFolder url="file://$MODULE_DIR$/Solved_Company__Coding_Problems/Other" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Solved_Company__Coding_Problems/IBM" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
